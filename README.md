@@ -1,16 +1,61 @@
-### Hi there 👋
+# Hi, I'm Anita 👋
 
-<!--
-**anitaRead/anitaRead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  I'm a Software Developer based in London.  I have recently completed a BCS Level 4 Software Developer apprenticeship with my employer [SITA](https://www.sita.aero) and been awarded a __Distinction__ (February 2023). 
 
-Here are some ideas to get you started:
+### ⚡️ Relevant Achievements:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - Completed the [Makers](https://makers.tech/curriculum/) Software Engineering Bootcamp as part of my apprenticeship (May 2021 - August 2021)
+   - Completed the [Makers](https://makers.tech/about-us/) DevOps Engineering Bootcamp as part of my apprenticeship (August 2021 - September 2021)
+   - Awarded a __Distinction__ for my BCS Level 4 Software Developer apprenticeship (May 2021 - February 2023)
+
+### 👩🏻‍💻 Tech Stack -> 2 years professional experience:
+  
+  - JavaScript
+  - Java
+  - Node.JS
+  - React 
+  - HTML
+  - CSS
+  - Git
+  - SQL
+  
+  __Tests:__
+  - Jest
+  - React Testing Library
+  - JUnit
+  - Jasmine
+
+  __Databases:__
+  - PostgreSQL
+  - MySQL
+
+### 👩🏻‍💻 Tech Stack -> 0.5-2 years professional experience:
+
+  - Ruby
+  - TypeScript
+  - Angular
+
+  __Tests:__
+  - Cypress
+
+  __Databases:__
+  - MongoDB
+  - MS SQL Server
+
+### 🔭 I’m currently working on ...
+
+  - Creating an app in _React Native_ 
+
+### 🌱 I’m currently learning ...
+
+  - React Native 
+
+### 👾 Fun fact:
+
+  - I love hiking and previously climbed Kilimanjaro (2015).
+  - My next challenge will be hiking the Annapurna Circuit in Nepal.
+
+### ☕️ Get in touch
+
+  - LinkedIn: [anitareadman](https://www.linkedin.com/in/anitareadman/)
+  - Email: areadman91@gmail.com
