@@ -1,6 +1,6 @@
 # Hi, I'm Anita 👋
 
-Welcome to my GitHub!  I'm a Software Developer based in London.  I have recently completed a BCS Level 4 Software Developer apprenticeship with my employer [SITA](https://www.sita.aero) and been awarded a __Distinction__ (February 2023). 
+Welcome to my GitHub!  I'm a Software Developer based in London.  I recently completed a BCS Level 4 Software Developer apprenticeship with my employer [SITA](https://www.sita.aero) and was awarded a __Distinction__ (February 2023). 
 
 ### ⚡️ Relevant Achievements:
 
@@ -52,8 +52,7 @@ Welcome to my GitHub!  I'm a Software Developer based in London.  I have recentl
 
 ### 👾 Fun fact:
 
-  - I love hiking and previously climbed Kilimanjaro (2015).
-  - My next challenge will be hiking the Annapurna Circuit in Nepal.
+  - I love hiking. The most challenging hikes I have completed are the Annapurna Circuit via Thorong La Pass (2023) and Kilimanjaro (2015).
 
 ### ☕️ Get in touch
 
