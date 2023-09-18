@@ -1,12 +1,12 @@
 # Hi, I'm Anita 👋
 
-Welcome to my GitHub!  I'm a Software Developer based in London.  I recently completed a BCS Level 4 Software Developer apprenticeship with my employer [SITA](https://www.sita.aero) and was awarded a __Distinction__ (February 2023). 
+Welcome to my GitHub!  I'm a Software Engineer based in London.
 
 ### ⚡️ Relevant Achievements:
 
-   - Completed the [Makers](https://makers.tech/curriculum/) Software Engineering Bootcamp as part of my apprenticeship (May 2021 - August 2021)
-   - Completed the [Makers](https://makers.tech/about-us/) DevOps Engineering Bootcamp as part of my apprenticeship (August 2021 - September 2021)
    - Awarded a __Distinction__ for my BCS Level 4 Software Developer apprenticeship (May 2021 - February 2023)
+   - Completed the [Makers](https://makers.tech/about-us/) DevOps Engineering Bootcamp as part of my apprenticeship (August 2021 - September 2021)
+- Completed the [Makers](https://makers.tech/curriculum/) Software Engineering Bootcamp as part of my apprenticeship (May 2021 - August 2021)
 
 ### 👩🏻‍💻 Tech Stack -> 2 years professional experience:
   
